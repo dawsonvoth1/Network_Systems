@@ -1,0 +1,233 @@
+--2022-03-14 19:27:18--  http://198.59.7.14:7979/
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3475 (3.4K) [text/html]
+Saving to: ‘198.59.7.14:7979/index.html’
+
+     0K ...                                                   100% 24.9M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:18 (24.9 MB/s) - ‘198.59.7.14:7979/index.html’ saved [3475/3475]
+
+Loading robots.txt; please ignore errors.
+--2022-03-14 19:27:18--  http://198.59.7.14:7979/robots.txt
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2022-03-14 19:27:19 ERROR 404: Not Found.
+
+--2022-03-14 19:27:19--  http://198.59.7.14:7979/graphics/html.gif
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 503 [image/gif]
+Saving to: ‘198.59.7.14:7979/graphics/html.gif’
+
+     0K                                                       100% 79.9M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:19 (79.9 MB/s) - ‘198.59.7.14:7979/graphics/html.gif’ saved [503/503]
+
+--2022-03-14 19:27:19--  http://198.59.7.14:7979/jquery-1.4.3.min.js
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77886 (76K) [application/javascript]
+Saving to: ‘198.59.7.14:7979/jquery-1.4.3.min.js’
+
+     0K .......... .......... .......... .......... .......... 65% 1.49M 0s
+    50K .......... .......... ......                          100% 19.3M=0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:19 (2.17 MB/s) - ‘198.59.7.14:7979/jquery-1.4.3.min.js’ saved [77886/77886]
+
+--2022-03-14 19:27:19--  http://198.59.7.14:7979/fancybox/jquery.mousewheel-3.0.4.pack.js
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1419 (1.4K) [application/javascript]
+Saving to: ‘198.59.7.14:7979/fancybox/jquery.mousewheel-3.0.4.pack.js’
+
+     0K .                                                     100%  135M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:19 (135 MB/s) - ‘198.59.7.14:7979/fancybox/jquery.mousewheel-3.0.4.pack.js’ saved [1419/1419]
+
+--2022-03-14 19:27:19--  http://198.59.7.14:7979/fancybox/jquery.fancybox-1.3.4.pack.js
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15764 (15K) [application/javascript]
+Saving to: ‘198.59.7.14:7979/fancybox/jquery.fancybox-1.3.4.pack.js’
+
+     0K .......... .....                                      100%  824K=0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:19 (824 KB/s) - ‘198.59.7.14:7979/fancybox/jquery.fancybox-1.3.4.pack.js’ saved [15764/15764]
+
+--2022-03-14 19:27:19--  http://198.59.7.14:7979/fancybox/jquery.fancybox-1.3.4.css
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8978 (8.8K) [text/css]
+Saving to: ‘198.59.7.14:7979/fancybox/jquery.fancybox-1.3.4.css’
+
+     0K ........                                              100% 11.0M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:19 (11.0 MB/s) - ‘198.59.7.14:7979/fancybox/jquery.fancybox-1.3.4.css’ saved [8978/8978]
+
+--2022-03-14 19:27:19--  http://198.59.7.14:7979/css/style.css
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2464 (2.4K) [text/css]
+Saving to: ‘198.59.7.14:7979/css/style.css’
+
+     0K ..                                                    100%  112M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:19 (112 MB/s) - ‘198.59.7.14:7979/css/style.css’ saved [2464/2464]
+
+--2022-03-14 19:27:19--  http://198.59.7.14:7979/images/wine3.jpg
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 728477 (711K) [image/jpg]
+Saving to: ‘198.59.7.14:7979/images/wine3.jpg’
+
+     0K .......... .......... .......... .......... ..........  7%  607K 1s
+    50K .......... .......... .......... .......... .......... 14% 1.04M 1s
+   100K .......... .......... .......... .......... .......... 21% 2.55M 1s
+   150K .......... .......... .......... .......... .......... 28% 2.35M 0s
+   200K .......... .......... .......... .......... .......... 35% 2.30M 0s
+   250K .......... .......... .......... .......... .......... 42% 3.12M 0s
+   300K .......... .......... .......... .......... .......... 49% 2.98M 0s
+   350K .......... .......... .......... .......... .......... 56% 3.09M 0s
+   400K .......... .......... .......... .......... .......... 63% 4.05M 0s
+   450K .......... .......... .......... .......... .......... 70% 4.01M 0s
+   500K .......... .......... .......... .......... .......... 77% 2.56M 0s
+   550K .......... .......... .......... .......... .......... 84% 2.84M 0s
+   600K .......... .......... .......... .......... .......... 91% 3.78M 0s
+   650K .......... .......... .......... .......... .......... 98% 2.60M 0s
+   700K .......... .                                          100% 10.9M=0.3s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:19 (2.10 MB/s) - ‘198.59.7.14:7979/images/wine3.jpg’ saved [728477/728477]
+
+--2022-03-14 19:27:19--  http://198.59.7.14:7979/images/apple_ex.png
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34307 (34K) [image/png]
+Saving to: ‘198.59.7.14:7979/images/apple_ex.png’
+
+     0K .......... .......... .......... ...                  100% 1.28M=0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:19 (1.28 MB/s) - ‘198.59.7.14:7979/images/apple_ex.png’ saved [34307/34307]
+
+--2022-03-14 19:27:19--  http://198.59.7.14:7979/images/exam.gif
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21658 (21K) [image/gif]
+Saving to: ‘198.59.7.14:7979/images/exam.gif’
+
+     0K .......... .......... .                               100%  989K=0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:19 (989 KB/s) - ‘198.59.7.14:7979/images/exam.gif’ saved [21658/21658]
+
+--2022-03-14 19:27:19--  http://198.59.7.14:7979/files/text1.txt
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 169 [text/plain]
+Saving to: ‘198.59.7.14:7979/files/text1.txt’
+
+     0K                                                       100% 23.0M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:19 (23.0 MB/s) - ‘198.59.7.14:7979/files/text1.txt’ saved [169/169]
+
+--2022-03-14 19:27:19--  http://198.59.7.14:7979/graphics/mov.gif
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 506 [image/gif]
+Saving to: ‘198.59.7.14:7979/graphics/mov.gif’
+
+     0K                                                       100% 34.5M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:19 (34.5 MB/s) - ‘198.59.7.14:7979/graphics/mov.gif’ saved [506/506]
+
+--2022-03-14 19:27:19--  http://198.59.7.14:7979/graphics/pdf.gif
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 502 [image/gif]
+Saving to: ‘198.59.7.14:7979/graphics/pdf.gif’
+
+     0K                                                       100% 68.4M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:19 (68.4 MB/s) - ‘198.59.7.14:7979/graphics/pdf.gif’ saved [502/502]
+
+--2022-03-14 19:27:19--  http://198.59.7.14:7979/graphics/txt.gif
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 502 [image/gif]
+Saving to: ‘198.59.7.14:7979/graphics/txt.gif’
+
+     0K                                                       100% 79.8M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:20 (79.8 MB/s) - ‘198.59.7.14:7979/graphics/txt.gif’ saved [502/502]
+
+--2022-03-14 19:27:20--  http://198.59.7.14:7979/fancybox/fancybox.png
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15414 (15K) [image/png]
+Saving to: ‘198.59.7.14:7979/fancybox/fancybox.png’
+
+     0K .......... .....                                      100% 1.21M=0.01s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:20 (1.21 MB/s) - ‘198.59.7.14:7979/fancybox/fancybox.png’ saved [15414/15414]
+
+--2022-03-14 19:27:20--  http://198.59.7.14:7979/fancybox/blank.gif
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170 [image/gif]
+Saving to: ‘198.59.7.14:7979/fancybox/blank.gif’
+
+     0K                                                       100% 27.0M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:20 (27.0 MB/s) - ‘198.59.7.14:7979/fancybox/blank.gif’ saved [170/170]
+
+--2022-03-14 19:27:20--  http://198.59.7.14:7979/fancybox/fancybox-x.png
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 330 [image/png]
+Saving to: ‘198.59.7.14:7979/fancybox/fancybox-x.png’
+
+     0K                                                       100% 45.0M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:20 (45.0 MB/s) - ‘198.59.7.14:7979/fancybox/fancybox-x.png’ saved [330/330]
+
+--2022-03-14 19:27:20--  http://198.59.7.14:7979/fancybox/fancybox-y.png
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 303 [image/png]
+Saving to: ‘198.59.7.14:7979/fancybox/fancybox-y.png’
+
+     0K                                                       100% 48.2M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:20 (48.2 MB/s) - ‘198.59.7.14:7979/fancybox/fancybox-y.png’ saved [303/303]
+
+--2022-03-14 19:27:20--  http://198.59.7.14:7979/fancybox/fancy_title_over.png
+Connecting to 198.59.7.14:7979... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197 [image/png]
+Saving to: ‘198.59.7.14:7979/fancybox/fancy_title_over.png’
+
+     0K                                                       100% 31.3M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2022-03-14 19:27:20 (31.3 MB/s) - ‘198.59.7.14:7979/fancybox/fancy_title_over.png’ saved [197/197]
+
+FINISHED --2022-03-14 19:27:20--
+Total wall clock time: 1.3s
+Downloaded: 19 files, 892K in 0.4s (1.96 MB/s)
