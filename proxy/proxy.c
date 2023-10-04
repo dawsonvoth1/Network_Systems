@@ -391,8 +391,8 @@ int main(int argc, char **argv) {
 				}
 				fclose(curr);
 			}
-			// printf("%s %s %s %s\n", method, uri, version, strrchr(uri, '.'));
-			// printf("%s %s %s \n", hostname, port, path);
+			printf("%s %s %s %s\n", method, uri, version, strrchr(uri, '.'));
+			printf("%s %s %s \n", hostname, port, path);
 
 			int status2;
 			struct addrinfo hints;
